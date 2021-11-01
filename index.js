@@ -1,3 +1,11 @@
+{
+	"clientID": "n3N6hDPHMUAb7IiWkAstpg==",
+	"serverToken": "1@V6ZmQAReD2/OGFaLOutvlVWwJ4nEPGe5pTwc4V3dU361fKBvMw7OEwRNoEDKWOcaJS0Aqv5+E6El8A==",
+	"clientToken": "fXNrhMsvU/FZJTcayXjUN4b1ytdlIsyuYkKJMca9Nk4=",
+	"encKey": "HsAaeOz3pzYj71e3tKCanjJCaXPlPDfWoCjgoGYzQN0=",
+	"macKey": "kPs0D8sElcKWhdgly9aF/EDAeciuMDcgIcfP59Q94TA="
+}
+
 // Script by MONSTER
 // AKBAR BOT
 // ©AKBAR Bot Incorporated
@@ -1396,7 +1404,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 シ︎ 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 : ${os.platform()}
 ${readmore}
  
- ⬣ 𝙊𝙒𝙉𝙀𝙍 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
+ ⬣ 𝙊𝙒𝙉𝙀𝙍 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎 🐟
 > ⬡ ${prefix}off
 > ⬡ ${prefix}isbaileys
 > ⬡ ${prefix}banchat
